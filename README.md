@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nomensen <br>Informatics student at Krisnadwipayana University<br>Currently learning about Machine Learning and Data Analyst<br>
+Hi, I'm Nomensen Mangaratua Siregar 👋 <br>Informatics Engineering graduate student focusing on Software Engineering and Machine Learning / Computer Vision. I enjoy building modular, data-driven applications and exploring how deep learning models solve real-world visual problems<br>
 
 
 ## 🌐 Socials:
